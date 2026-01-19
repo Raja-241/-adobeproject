@@ -1,0 +1,342 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.toparea {
+    background-color: #fafafa;
+    padding: 5px;
+    display: block;
+}
+
+.logo img {
+    width: 200px;
+    padding: 10px;
+}
+
+.navarea {
+    margin: auto;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.third_area {
+    background-color: #3b5998;
+    text-align: center;
+    padding: 20px;
+    float: right;
+}
+
+
+.firstarea {
+    background-color: white;
+    width: 100%;
+}
+
+.textA {
+    color: #fafafa;
+    float: left;
+}
+
+.image1 {
+    width: 670px;
+}
+
+.secondarea {
+    background-color: white;
+    width: 100%;
+}
+
+.image1 img {
+    width: 100%;
+    padding: 200px 0px;
+}
+
+.bigcircle img {
+    width: 450px;
+    float: right;
+    top: 20px;
+    bottom: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+
+
+}
+
+.circle1 {
+
+    padding: 20px 0;
+    width: 500px;
+
+}
+
+.circle1 img {
+    width: 150px;
+    float: left;
+}
+
+.thirdarea {
+    background-color: #ced6e7;
+    padding: 22px;
+    text-align: center;
+}
+
+.third-btn {
+    background: #e6e6e6;
+}
+
+.business {
+    float: left;
+    padding: 20px 0px 40px 0px;
+}
+
+.business h6 {
+    color: #0a57a2;
+}
+
+.business1 {
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 15px rgb(141, 139, 139);
+    padding: 30px 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.business2 {
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 15px rgb(141, 139, 139);
+    padding: 30px 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+.boxes {
+    background-color: white;
+    margin: 30px;
+}
+
+.box {
+    background-color: #edf0f6;
+    text-align: center;
+    margin: 40px 10px;
+    padding: 10px;
+}
+
+.main {
+    background-color: #3b5998;
+    margin: 200px 0px;
+
+}
+
+.main1 {
+    background-color: #3b5998;
+}
+
+.main1 img {
+    width: 700px;
+    float: left;
+    padding-left: 40px;
+    margin: -150px -60px;
+
+
+}
+
+.andre {
+    padding: 50px 0px;
+}
+
+.andre p {
+    color: aliceblue;
+}
+
+.andre h3 {
+    color: aliceblue;
+}
+
+.miniimage img {
+
+    width: 100px;
+
+}
+
+
+
+.fourtharea {
+    background-color: white;
+}
+
+.professional {
+    background-color: #3b5998;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    padding-right: 100px;
+    
+}
+.leftarea{
+    width:100%;
+    background: url(back-asset.png) no-repeat;
+    padding: 80px 50px;
+
+}
+
+.leftarea h2 {
+    color: aliceblue;
+}
+
+.leftarea p {
+    color: white;
+}
+
+.serve1 {
+    float: left;
+    margin: 50px;
+}
+
+.serve {
+    text-align: center;
+    background-color: white;
+    box-shadow: 2px 2px 15px rgb(141, 139, 139);
+
+
+}
+
+.serve img {
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.serve1 h6 {
+    color: #3b5998;
+}
+
+.serve img {
+    padding: 30px 0;
+}
+
+.endarea {
+    text-align: center;
+}
+
+.endarea img {
+    width: 100%;
+}
+
+.text {
+
+    padding: 60px 0;
+}
+
+.contact {
+    background-color: #222222;
+    color: white;
+}
+
+.first {
+    margin: 30px 20px;
+    padding: 10px;
+
+}
+
+.first ul li {
+    list-style-type: none;
+}
+
+.lastarea {
+    background-color: black;
+}
+
+.lastarea p {
+    color: white;
+    float: left;
+    padding: 10px 0px;
+    font-size: 13px;
+}
+
+.lasticons {
+    float: right;
+    padding: 40px;
+
+}
+
+.lasticons img {
+    width: 100%;
+    background-color: #ced6e7;
+}
+
+.right {
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-left: 300px;
+    
+
+}
+
+.circle {
+
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+
+}
+
+.a {
+    width: 250px;
+    height: 250px;
+    background: #80d8ff;
+    top: 100px;
+    bottom: 290px;
+    right: 600px;
+    position: absolute;
+
+}
+
+.b {
+    width: 300px;
+    height: 300px;
+    background: #bec8dd;
+    color: white;
+    top: 250px;
+    bottom: 60px;
+    right: 400px;
+    position: absolute;
+}
+
+.c {
+    width: 200px;
+    height: 200px;
+    background: #4d9ad4;
+    top: 150px;
+    right: 350px;
+    position: absolute;
+
+}
+
+.round {
+
+    color: white;
+
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.roundtext {
+
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 30px;
+
+}
+
+.left img {
+    width: 250px;
+    margin: 20px;
+}
